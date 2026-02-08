@@ -1,0 +1,28 @@
+Execution date '###' execution time '###' userid '###' courseid '###' facultyid '###' slot_start_date '###' slot_end_date '###' response '###' cgi
+
+2025-12-29	 '###' 10:35:18	 '###' 1	 '###' 1964	 '###' 2	 '###' 2025-12-29	 '###' 11:00	 '###' 12:00	 '###' Available - you can generate slots.	 '###' check_availability
+Execution_date-- 2025-12-29	 '###' Execution_time-- 11:04:13	 '###' User_id-- 1	 '###' Course-- 1964	 '###' Faculty_id-- 4	 '###' Start_date-- 2025-12-29	 '###' Start_time-- 11:00	 '###' End_time-- 12:00	 '###' Response-- Available - you can generate slots.	 '###' check_availability
+Execution_date-- 2025-12-29	 '###' Execution_time-- 11:04:32	 '###' Userid-- -1	 '###' Booking_id-- 18252	 '###' Interview_id-- 1	 '###' Response-- success	 '###' save_booking
+Execution_date-- 2025-12-29	 '###' Execution_time--  11:04:57	 '###' Userid-- -1	 '###' Booking_id-- 18252	 '###' response-- success	 '###' unbook
+Execution_date-- 2025-12-29	 '###' Execution_time-- 11:05:07	 '###' Userid-- -1	 '###' Booking_id-- 18252	 '###' Interview_id-- 1	 '###' Response-- success	 '###' save_booking
+Executiondate-- 2025-12-29	 '###'Executiontime-- 11:05:16	 '###' Userid-- -1	 '###' Bookingid-- 18252	 '###' Response-- success	 '###' delete
+Execution_date-- 2025-12-29	 '###' Execution_time-- 11:14:47	 '###' User_id-- 1	 '###' Course-- 1964	 '###' Faculty_id-- 5	 '###' Start_date-- 2025-12-29	 '###' Start_time-- 11:30	 '###' End_time-- 12:00	 '###' Response-- Available	 '###' check_availability
+Execution_date-- 2025-12-29	 '###' Execution_time-- 11:14:50	 '###' Userid-- -1	 '###' Course-- 1964	 '###' Faculty_id-- 5	 '###' Start_date-- 2025-12-29	 '###' Start_time-- 11:30	 '###' End_time-- 12:00	 '###' Response-- success	 '###' generate_slots
+Execution_date-- 2025-12-29	'###'	Execution_time-- 11:20:42	'###'	Userid-- -1	'###'	Booking_id-- 18254	'###'	Interview_id-- 1	'###'	Response-- success	'###'	save_booking
+Execution_date-- 2025-12-29	'###'	Execution_time--  11:21:27	'###'	Userid-- -1	'###'	Booking_id-- 18254	'###'	response-- success	'###'	unbook
+Execution_date-- 2025-12-29	'###'	Execution_time-- 11:21:47	'###'	Userid-- -1	'###'	Booking_id-- 18254	'###'	Interview_id-- 1	'###'	Response-- success	'###'	save_booking
+Executiondate-- 2025-12-29	'###'	Executiontime-- 11:21:56	'###'	Userid-- -1	'###'	Bookingid-- 18254	'###'	Response-- success	'###'	delete
+Execution_date-- 2026-02-02	'###'	 Execution_time-- 21:50:25	'###'	User_id-- 1	'###'	Course-- 1964	'###'	Faculty_id-- 1	'###'	Start_date-- 2026-02-03	'###'	Start_time-- 01:00	'###'	End_time-- 02:00	'###'	Response-- Available	'###'	check_availability
+Execution_date-- 2026-02-02	'###'	Execution_time-- 21:50:29	'###'	Userid-- -1	'###'	Course-- 1964	'###'	Faculty_id-- 1	'###'	Start_date-- 2026-02-03	'###'	Start_time-- 01:00	'###'	End_time-- 02:00	'###'	Response-- success	'###'	generate_slots
+Execution_date-- 2026-02-02	'###'	Execution_time-- 21:50:32	'###'	Userid-- -1	'###'	Course-- 1964	'###'	Faculty_id-- 1	'###'	Start_date-- 2026-02-03	'###'	Start_time-- 01:00	'###'	End_time-- 02:00	'###'	Response-- duplicate	'###'	generate_slots
+Execution_date-- 2026-02-02	'###'	Execution_time-- 21:51:02	'###'	Userid-- -1	'###'	Booking_id-- 18255	'###'	Interview_id-- 0	'###'	Response-- success	'###'	save_booking
+Execution_date-- 2026-02-02	'###'	Execution_time--  21:51:17	'###'	Userid-- -1	'###'	Booking_id-- 18255	'###'	response-- success	'###'	unbook
+Execution_date-- 2026-02-02	'###'	Execution_time-- 21:51:33	'###'	Userid-- -1	'###'	Booking_id-- 18255	'###'	Interview_id-- 0	'###'	Response-- success	'###'	save_booking
+Executiondate-- 2026-02-02	'###'	Executiontime-- 21:51:38	'###'	Userid-- -1	'###'	Bookingid-- 18255	'###'	Response-- success	'###'	delete
+Execution_date-- 2026-02-08	'###'	 Execution_time-- 13:50:11	'###'	User_id-- 1	'###'	Course-- 1964	'###'	Faculty_id-- 1	'###'	Start_date-- 2026-02-08	'###'	Start_time-- 10:00	'###'	End_time-- 12:00	'###'	Response-- Available	'###'	check_availability
+Execution_date-- 2026-02-08	'###'	Execution_time-- 13:50:17	'###'	Userid-- -1	'###'	Course-- 1964	'###'	Faculty_id-- 1	'###'	Start_date-- 2026-02-08	'###'	Start_time-- 10:00	'###'	End_time-- 12:00	'###'	Response-- success	'###'	generate_slots
+Execution_date-- 2026-02-08	'###'	Execution_time-- 13:50:49	'###'	Userid-- -1	'###'	Course-- 1964	'###'	Faculty_id-- 1	'###'	Start_date-- 2026-02-08	'###'	Start_time-- 14:00	'###'	End_time-- 16:00	'###'	Response-- success	'###'	generate_slots
+Execution_date-- 2026-02-08	'###'	Execution_time-- 13:51:12	'###'	Userid-- -1	'###'	Booking_id-- 18264	'###'	Interview_id-- 0	'###'	Response-- success	'###'	save_booking
+Execution_date-- 2026-02-08	'###'	Execution_time--  13:51:27	'###'	Userid-- -1	'###'	Booking_id-- 18264	'###'	response-- success	'###'	unbook
+Execution_date-- 2026-02-08	'###'	Execution_time-- 13:51:34	'###'	Userid-- -1	'###'	Booking_id-- 18264	'###'	Interview_id-- 0	'###'	Response-- success	'###'	save_booking
+Executiondate-- 2026-02-08	'###'	Executiontime-- 13:51:43	'###'	Userid-- -1	'###'	Bookingid-- 18264	'###'	Response-- success	'###'	delete
