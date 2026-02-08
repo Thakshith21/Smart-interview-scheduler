@@ -1,0 +1,3 @@
+create a email.txt with courseid like email_1234.txt
+go to tool and in php send the course id with other data
+it will redirect to showwslots.php once success
